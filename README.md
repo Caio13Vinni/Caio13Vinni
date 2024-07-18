@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9600F7&center=true&vCenter=true&random=true&width=435&lines=%E2%9C%A6+Welcome+to+my+profile+%E2%9C%A6"          alt="Typing SVG" />
+  </a>
+</div>
+
 ### Olá Sou o Caio Vinícius 🔮🧙🏽
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vinícius-ferreira-950810302/)
