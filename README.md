@@ -1,7 +1,5 @@
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?  font=Fira+Code&pause=1000&color=9600F7&center=true&vCenter=true&width=435&lines=%E2%9C%A6Ol%C3%A1+Sou+o+Caio+Vin%C3%ADcius+%F0%9F%94%AE%F0%9F%A7%99%F0%9F%8F%BD%E2%9C%A6;%E2%9C%A6Bem+Vindo+ao+meu+perfil+%E2%9C%A6" alt="Typing SVG" />
-  </a>
 
-### Caio Vinícius 🔮🧙🏽
+### Caio Vinícius 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vinícius-ferreira-950810302/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caio_vnn/)
