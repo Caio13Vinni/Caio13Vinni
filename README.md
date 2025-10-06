@@ -2,22 +2,9 @@
 
 **`Desenvolvedor Back-end`**
 
-Me chamo Caio Vinícius Ferreira, tenho 19 anos e sou natural do Distrito Federal. Concluí o ensino médio no Colegio Católica de Brasília. Atualmente, estou cursando Engenharia de Software na UNICEPLAC. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[VNS Station](https://www.youtube.com/@vnsStation)", onde ensino a criar projetos e compartilho meu conhecimento.
+Me chamo Caio Vinícius Ferreira, tenho 19 anos e sou natural do Distrito Federal. Concluí o ensino médio no Colegio Católica de Brasília. Atualmente, estou cursando Engenharia de Software na UNICEPLAC. Sou apaixonado por tecnologia e estou me desenvolvendo na area de Back-end ultilizando a Liguagem Java.
 
-<p align="left">
-    <a href="https://www.youtube.com/@vnsStation?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCTSnVBNE6mv6Ygr3TFPRjDw?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@vnsStation">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCTSnVBNE6mv6Ygr3TFPRjDw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
+<p>
     </a> 
     <a href="https://github.com/Caio13Vinni?tab=repositories&sort=stargazers">
         <img 
