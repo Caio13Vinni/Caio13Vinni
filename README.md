@@ -52,6 +52,23 @@ Me chamo Caio Vinícius Ferreira, tenho 19 anos e sou natural do Distrito Federa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Ruby" 
+    title="Ruby"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="Rails" 
+    title="Ruby on Rails"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg"
+/>
+
 
 <img 
     align="left" 
