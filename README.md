@@ -132,7 +132,7 @@ Me chamo Caio Vinícius Ferreira, tenho 19 anos e sou natural do Distrito Federa
   align="left"
   alt="GitHub Stats"
   height="200"
-  src="https://github-readme-stats-sigma-indol-45.vercel.app/api/top-langs/?username=Caio13Vinni&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&count_private=true" 
+  src="https://github-readme-stats-sigma-indol-45.vercel.app/api/top-langs/?username=Caio13Vinni&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&count_private=true&cache_seconds=0" 
 />
 
 
