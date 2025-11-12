@@ -1,22 +1,22 @@
 # 👨🏽‍💻♨️ Caio Vinícius
 
-**`Desenvolvedor Back-end`**
+**`Back-end Developer`**
 
-Me chamo Caio Vinícius Ferreira, tenho 19 anos e sou natural do Distrito Federal. Concluí o ensino médio no Colegio Católica de Brasília. Atualmente, estou cursando Engenharia de Software na UNICEPLAC. Sou apaixonado por tecnologia e estou me desenvolvendo na area de Back-end ultilizando a Liguagem Java.
+My name is Caio Vinícius Ferreira, I am 19 years old and from the Federal District. I completed high school at Colégio Católica de Brasília. Currently, I am studying Software Engineering at UNICEPLAC. I am passionate about technology and am developing my skills in the Back-end area using the Java Language.
 
 <p>
     </a> 
     <a href="https://github.com/Caio13Vinni?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Total stars" 
+            title="Total GitHub stars" 
             src="https://custom-icon-badges.demolab.com/github/stars/Caio13Vinni?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
     <a href="https://github.com/Caio13Vinni?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="Follow me on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Caio13Vinni?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
@@ -24,7 +24,7 @@ Me chamo Caio Vinícius Ferreira, tenho 19 anos e sou natural do Distrito Federa
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 
 <img 
@@ -133,7 +133,7 @@ Me chamo Caio Vinícius Ferreira, tenho 19 anos e sou natural do Distrito Federa
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 
 <p>
@@ -142,14 +142,14 @@ Me chamo Caio Vinícius Ferreira, tenho 19 anos e sou natural do Distrito Federa
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Caio13Vinni&show_icons=true&theme=tokyonight&=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Caio13Vinni&show_icons=true&theme=tokyonight&=true&locale=en" 
   />
 
 <img 
   align="left"
   alt="GitHub Stats"
   height="200"
-  src="https://github-readme-stats-sigma-indol-45.vercel.app/api/top-langs/?username=Caio13Vinni&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6&count_private=true&cache_seconds=0" 
+  src="https://github-readme-stats-sigma-indol-45.vercel.app/api/top-langs/?username=Caio13Vinni&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=6&count_private=true&cache_seconds=0" 
 />
 
 
