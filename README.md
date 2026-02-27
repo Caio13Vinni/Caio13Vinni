@@ -43,7 +43,7 @@ Currently building personal projects to improve my knowledge and explore new tec
 ### 📊 GitHub Statistics  
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-caio.vercel.app/api?username=Caio13Vinni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats-caio.vercel.app/api?username=Caio13Vinni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   <img height="160em" src="https://github-readme-stats-caio.vercel.app/api/top-langs/?username=Caio13Vinni&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 </div>
 
