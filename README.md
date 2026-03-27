@@ -5,7 +5,7 @@
 
 ### 🚀 About Me  
 
-My name is **Caio Vinícius Ferreira**, I’m 19 years old and from the Federal District 🇧🇷.  
+My name is **Caio Vinícius Ferreira**, I’m 20 years old and from the Federal District 🇧🇷.  
 I completed high school at Colégio Católica de Brasília and I’m currently studying **Software Engineering at UNICEPLAC**.  
 I’m passionate about technology and developing my skills in **Back-End development using Java & SpringBoot**.  
 Currently building personal projects to improve my knowledge and explore new technologies.
