@@ -1,62 +1,87 @@
-# 👋 Hi, I'm Caio Vinícius!  
-**`Back-End Developer`**
-
----
-
-### 🚀 About Me  
-
-My name is **Caio Vinícius Ferreira**, I’m 20 years old and from the Federal District 🇧🇷.  
-I completed high school at Colégio Católica de Brasília and I’m currently studying **Software Engineering at UNICEPLAC**.  
-I’m passionate about technology and developing my skills in **Back-End development using Java & SpringBoot**.  
-Currently building personal projects to improve my knowledge and explore new technologies.
-
----
-
-### 🤝 Connect with Me  
-
-[![GitHub Stars](https://custom-icon-badges.demolab.com/github/stars/Caio13Vinni?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars)](https://github.com/Caio13Vinni?tab=repositories&sort=stargazers)
-[![GitHub Followers](https://custom-icon-badges.demolab.com/github/followers/Caio13Vinni?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white)](https://github.com/Caio13Vinni?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-vin%C3%ADcius-ferreira/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatocaio.ferreira7@gmail.com)
-
----
-
-### 💻 Languages & Technologies  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Caio%20Vinícius&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" title="Spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="aws" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Docker" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="postgresql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" title="postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" title="ngnix" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="40" title="Ruby" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-original-wordmark.svg" width="40" title="Rails" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" title="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" title="GitHub" />
+  <strong>Back-End Developer • Java • Spring Boot • Linux • Cloud</strong>
 </p>
 
 ---
 
-### 📊 GitHub Statistics  
+## 🚀 About Me
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats-caio.vercel.app/api?username=Caio13Vinni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats-caio.vercel.app/api/top-langs/?username=Caio13Vinni&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
-</div>
+Software Engineering student focused on building scalable backend systems, APIs and cloud-ready applications.
+
+I enjoy working close to the system: Linux environments, Docker containers, REST APIs and backend architecture.
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=caio13vinni&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio13vinni&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=caio13vinni&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Focus Areas
+
+* Backend systems with **Java + Spring Boot**
+* REST APIs and microservices fundamentals
+* Linux-based development workflows
+* Docker and containerized applications
+* Cloud deployment (AWS basics)
+* Clean architecture and maintainability
+
+---
+
+## 📌 Current Work
+
+* Building backend projects with Spring Boot
+* Improving API design and database modeling
+* Learning cloud deployment workflows
+* Strengthening Linux and Docker usage
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  <a href="mailto:contatocaio.ferreira7@gmail.com">
+    <img src="https://img.shields.io/badge/email-contact-red?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/caio13vinni">
+    <img src="https://img.shields.io/badge/github-profile-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/">
+    <img src="https://img.shields.io/badge/linkedin-connect-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <span style="font-size: 30;"><i>“I USE ARCH BTW”</i></span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="20" title="Arch Linux" />
-  <br/>
-  🚀 Built by <a href="https://github.com/Caio13Vinni">Caio Vinícius</a>
+  <i>Linux user. Arch btw.</i>
 </p>
