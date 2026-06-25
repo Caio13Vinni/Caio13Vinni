@@ -75,7 +75,7 @@ I enjoy working close to the system: Linux environments, Docker containers, REST
   <a href="https://github.com/caio13vinni">
     <img src="https://img.shields.io/badge/github-profile-181717?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/caio-vin%C3%ADcius-ferreira//">
+  <a href="https://www.linkedin.com/in/caio-vin%C3%ADcius-ferreira">
     <img src="https://img.shields.io/badge/linkedin-connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
