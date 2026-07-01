@@ -39,7 +39,7 @@ I enjoy working close to the system: Linux environments, Docker containers, REST
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=caio13vinni&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=caio13vinni&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
