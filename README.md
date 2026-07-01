@@ -11,7 +11,6 @@
 ## 🚀 About Me
 
 Software Engineering student focused on building scalable backend systems, APIs and cloud-ready applications.
-
 I enjoy working close to the system: Linux environments, Docker containers, REST APIs and backend architecture.
 
 ---
@@ -19,7 +18,6 @@ I enjoy working close to the system: Linux environments, Docker containers, REST
 ## ⚙️ Tech Stack
 
 <p align="center">
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="45"/>
@@ -29,7 +27,6 @@ I enjoy working close to the system: Linux environments, Docker containers, REST
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45"/>
-
 </p>
 
 ---
@@ -37,8 +34,8 @@ I enjoy working close to the system: Linux environments, Docker containers, REST
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=caio13vinni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio13vinni&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-flame-six-56.vercel.app/api?username=caio13vinni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-flame-six-56.vercel.app/api/top-langs/?username=caio13vinni&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=dotfiles,backup" />
 </p>
 
 <p align="center">
