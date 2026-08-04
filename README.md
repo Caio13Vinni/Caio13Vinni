@@ -35,7 +35,7 @@ I enjoy working close to the system: Linux environments, Docker containers, REST
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-flame-six-56.vercel.app/api?username=caio13vinni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-flame-six-56.vercel.app/api/top-langs/?username=caio13vinni&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=dotfiles,backup" />
+  <img height="165" src="https://github-readme-stats-flame-six-56.vercel.app/api/top-langs/?username=caio13vinni&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=dotfiles,backup&hide=html,css,vue,javascript,ruby" />
 </p>
 
 <p align="center">
