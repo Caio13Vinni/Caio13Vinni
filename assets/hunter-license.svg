@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 60" width="96" height="60">
+  <rect x="1.5" y="1.5" width="93" height="57" rx="6" fill="#0D1117" stroke="#6488A0" stroke-width="3"/>
+  <path d="M18 16 L38 44 M38 16 L18 44" stroke="#6488A0" stroke-width="5" stroke-linecap="round"/>
+  <rect x="50" y="15" width="34" height="4" rx="2" fill="#D7D9D4"/>
+  <rect x="50" y="25" width="26" height="4" rx="2" fill="#D7D9D4" opacity="0.65"/>
+  <rect x="50" y="35" width="30" height="4" rx="2" fill="#D7D9D4" opacity="0.65"/>
+  <text x="50" y="52" font-family="monospace" font-size="9" fill="#B89A6A" letter-spacing="2">No 013</text>
+</svg>
